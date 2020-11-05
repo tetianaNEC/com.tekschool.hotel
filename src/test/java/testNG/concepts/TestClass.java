@@ -8,5 +8,6 @@ public class TestClass {
 	@Test
 	public void test() {
 		System.out.println("This class will be pushed to repo");
+		//Theese changes made in Git Repo
 	}
 }
